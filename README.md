@@ -11,8 +11,8 @@ Welcome to the Student Submission Repository! This repository is intended for st
    - Replace `name` with your first name or username.
 
    **Examples**:
-   - `john_extra.py`
-   - `jane_extra.ipynb`
+   - `john_extra01.py`
+   - `jane_extra01.ipynb`
 
 2. **How to Submit Your Work**:
    - Clone the repository to your local machine:
