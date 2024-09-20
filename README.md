@@ -33,11 +33,8 @@ Welcome to the Student Submission Repository! This repository is intended for st
 ## Important Notes
 
 - Make sure to commit your changes frequently to avoid losing your work.
-- If you encounter any issues, please create an issue in this repository or reach out for help.
+- Enjoy!
 
-## Contact
+## Happy coding!
 
-For any questions or concerns, please reach out to your instructor.
-
-Happy coding!
 
