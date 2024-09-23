@@ -28,7 +28,7 @@ Welcome to the Student Submission Repository! This repository is intended for st
      ```
 
 3. **Check for Errors**: 
-   - Ensure that your file follows the naming convention. If it doesn’t, the push will fail, and an error message will be displayed.
+   - Ensure that your file follows the naming convention. If it doesn’t, the push will fail, and it will not be evaluated. 
 
 ## Important Notes
 
