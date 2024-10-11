@@ -7,6 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/12ri9-soXIxA6jjcnjMov_rjs0_xxnFL8
 """
 
+#commented by Myo thida
+# 2 out of 5 points. 
+# The code does not hanld the invalid input such as string. 
+# The code does nto allow the player to play again after winning or losing.
+# The code does not include comments explaining key parts of the program.
+
 import random
 rand_int = random.randint(1,1000)
 guess_range = range(1,1000)
