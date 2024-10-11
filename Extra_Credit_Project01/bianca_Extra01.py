@@ -1,3 +1,7 @@
+# Commented by Myo Thida 
+# 2.5 out of 5 points. The program works as expected. However, the answer is printed out in the beginning of the game. This is not a good practice. No fun to play a game when you know the answer.
+# Date: 10/10/2019
+
 import random
 import math
 
