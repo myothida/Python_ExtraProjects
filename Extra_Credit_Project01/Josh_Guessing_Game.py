@@ -1,4 +1,11 @@
 #Guessing Game
+# (2.5 points out of 5 points)
+# (1 point): The game successfully generates a random number and allows the player to guess it, providing feedback if the guess is too high or too low.
+# (1 point): The code checks if the guess is an integer between 0 and 1000.
+# (0.5 point): The player is prompted to decide whether to play again after winning or losing. But, the code does not end correctly if you enter 0.
+# (0 point): The game did not end correctly after running the 2nd round.
+# (0 point): The comments are not added to the code.
+
 condition = True
 while condition == True:
     print("hello this is a guessing game where you have 5 guesses to get the correct number I am thinking")

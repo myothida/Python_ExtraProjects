@@ -1,5 +1,13 @@
 #Sherry_ExtraCredit01
 
+#Guessing Game
+# (5 out of 5 points)
+# (1 point): The game successfully generates a random number and allows the player to guess it, providing feedback if the guess is too high or too low.
+# (1 point): The code checks if the guess is an integer between 0 and 1000.
+# (1 point): The player is prompted to decide whether to play again after winning or losing. 
+# (1 point): The game ends correctly after either winning or losing.
+# (1 point): The comments are added to the code and they are clear and explain the code.
+
 import random
 
 def play_game():

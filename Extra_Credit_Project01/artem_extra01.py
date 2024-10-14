@@ -4,7 +4,7 @@
 # (1 point): The code correctly checks if the guess is an integer between 0 and 1000.
 # (1 point): After winning or losing, the player is prompted to decide whether to play again.
 # (1 point): The game ends correctly after either winning or losing
-# (10 point): The condition while Answer.lower() != "yes" or Answer.lower() != "no" is not efficient way of handling this, though it works.
+# (0 point): The condition while Answer.lower() != "yes" or Answer.lower() != "no" is not efficient way of handling this, though it works.
 
 from random import randint #Generates random number from 0 to 1000
 myRandomNumber = randint(0,1000)

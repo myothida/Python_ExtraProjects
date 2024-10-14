@@ -1,3 +1,12 @@
+# Date: 11/10/2019a
+#Guessing Game
+# (2.5 points out of 5 points)
+# (1 point): The game successfully generates a random number and allows the player to guess it, providing feedback if the guess is too high or too low.
+# (0 point): The code did not check if the guess is an integer between 0 and 1000.
+# (0.5 point): The player is not prompted to decide whether to play again after winning. But, the code does not end correctly if you win.
+# (0 point): The game did not end correctly after winning.
+# (1 point): The comments are added to the code.
+
 print("The program will generate a random number between 1 and 1000, enter your guess to guess the number, youn will have 10 chances to guess the correct number")
 import random
 

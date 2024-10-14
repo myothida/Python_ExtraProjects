@@ -1,5 +1,12 @@
 import random
 
+# (1.5 points out of 5 points)
+# (1 point): The game successfully generates a random number and allows the player to guess it, providing feedback if the guess is too high or too low.
+# (0 point): The code did not correctly check if the guess is an integer between 0 and 1000.
+# (0 point): The game did not end correctly after either winning or losing.
+# (0 point): The player is not prompted to decide whether to play again after winning or losing.
+# (0.5 point): The comments are added to the code, but they are not clear and do not explain the code.
+
 game = True
 while(game==True):
 #generating a random number

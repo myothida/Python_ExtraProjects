@@ -1,5 +1,12 @@
 import random  # Import random number
 
+# (3.5 points out of 5)
+# (1 point): The game successfully generates a random number and allows the player to guess it, providing feedback if the guess is too high or too low.
+# (1 point): The code correctly checks if the guess is an integer between 0 and 1000.
+# (1 point): The game ends correctly after either winning or losing
+# (0 point): After winning or losing, the player should be prompted to decide whether to play again. However, the player is forced to play NPC guessing game after player guessing game.
+# (0.5 point): The comments are added to the code, but they do not explain why NPC guessing game is added here.
+
 def player_guess():
     number_to_guess = random.randint(1, 1000)  # Generates random number between 1 and 1000
     attempts = 10  # Limit number of chances
